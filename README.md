@@ -1,2 +1,2 @@
-# sql-pdo
-Introduction aux requêtes SQL et à PDO
+# sql-pdo-gt3
+Introduction aux requêtes SQL et à PDO 
