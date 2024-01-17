@@ -36,6 +36,12 @@ VALUES ('Minecraft', 'Aventure', 95);
 
 INSERT INTO JeuxVideo (NomDuJeu, Genre, Score)
 VALUES ('Fortnite', 'Bataille Royale', 85);
+
+INSERT INTO JeuxVideo (NomDuJeu, Genre, Score)
+VALUES ('Super Mario Bros.', 'Plate-forme', 95);
+
+INSERT INTO JeuxVideo (NomDuJeu, Genre, Score)
+VALUES ('Uncharted', 'Action', 90);
 ```
 
 **Tips** : La commande **INSERT INTO** permet au choix d’inclure une seule ligne à la base existante ou plusieurs lignes d’un coup.
